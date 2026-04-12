@@ -1,0 +1,26 @@
+{
+  "leadership": [
+    {
+      "id": 1,
+      "title": "Student Council President",
+      "period": "Sept 2025 - Present",
+      "description": "Representing 1500+ students in academic and administrative discussions at JK Lakshmipat University.",
+      "highlights": [
+        "Led flagship campus initiatives",
+        "Coordinated student representation",
+        "Managed stakeholder collaboration"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Organizer \u2014 HackJKLU v4.0",
+      "period": "Sept 2024 - April 2025",
+      "description": "Managed planning, execution, budgeting, sponsor relations, guest relations, participation management, logistics, and team coordination.",
+      "highlights": [
+        "Organized national-level hackathon operations",
+        "Managed sponsors and logistics",
+        "Coordinated large volunteer teams"
+      ]
+    }
+  ]
+}

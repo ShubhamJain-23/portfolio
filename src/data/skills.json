@@ -1,0 +1,100 @@
+{
+  "categories": [
+    {
+      "name": "Languages",
+      "skills": [
+        {
+          "name": "Python",
+          "level": 90
+        },
+        {
+          "name": "C++",
+          "level": 80
+        },
+        {
+          "name": "C",
+          "level": 75
+        },
+        {
+          "name": "SQL",
+          "level": 75
+        },
+        {
+          "name": "JavaScript",
+          "level": 85
+        }
+      ]
+    },
+    {
+      "name": "Frameworks & Libraries",
+      "skills": [
+        {
+          "name": "Flask",
+          "level": 85
+        },
+        {
+          "name": "Django",
+          "level": 70
+        },
+        {
+          "name": "Next.js",
+          "level": 80
+        },
+        {
+          "name": "Tailwind CSS",
+          "level": 88
+        },
+        {
+          "name": "React",
+          "level": 80
+        }
+      ]
+    },
+    {
+      "name": "Data & ML",
+      "skills": [
+        {
+          "name": "NumPy",
+          "level": 75
+        },
+        {
+          "name": "Pandas",
+          "level": 75
+        },
+        {
+          "name": "Scikit-learn",
+          "level": 70
+        },
+        {
+          "name": "Matplotlib",
+          "level": 70
+        }
+      ]
+    },
+    {
+      "name": "Tools & Platforms",
+      "skills": [
+        {
+          "name": "Git",
+          "level": 85
+        },
+        {
+          "name": "Docker",
+          "level": 70
+        },
+        {
+          "name": "Linux",
+          "level": 75
+        },
+        {
+          "name": "PowerBI",
+          "level": 65
+        },
+        {
+          "name": "Figma",
+          "level": 65
+        }
+      ]
+    }
+  ]
+}

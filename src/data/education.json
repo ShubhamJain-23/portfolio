@@ -1,0 +1,46 @@
+{
+  "education": [
+    {
+      "id": 1,
+      "type": "education",
+      "title": "B.Tech in Computer Science Engineering",
+      "institution": "JK Lakshmipat University, Jaipur",
+      "year": "2023 - Present",
+      "description": "Pursuing B.Tech in CSE with a current CGPA of 8.7."
+    },
+    {
+      "id": 2,
+      "type": "education",
+      "title": "Visiting Student - CSE Department",
+      "institution": "Indian Institute of Technology Delhi",
+      "year": "Jan 2025 - May 2025",
+      "description": "Research engagement at MediaTechLab focused on VR learning modules and projection mapping."
+    }
+  ],
+  "experience": [
+    {
+      "id": 3,
+      "type": "experience",
+      "title": "Teaching Assistant \u2014 C Programming & Python",
+      "institution": "JK Lakshmipat University",
+      "year": "Jan 2026 - Present",
+      "description": "Mentored 120+ students in programming concepts, assignments, and competitive coding."
+    },
+    {
+      "id": 4,
+      "type": "experience",
+      "title": "Research Intern",
+      "institution": "MediaTechLab, IIT Delhi",
+      "year": "May 2025 - July 2025",
+      "description": "Built a VR-based learning module for Virtual Labs and designed projection mapping on 3D printed architecture."
+    },
+    {
+      "id": 5,
+      "type": "experience",
+      "title": "Software Development Intern",
+      "institution": "iHub-AWaDH@IIT Ropar",
+      "year": "May 2024 - July 2024",
+      "description": "Developed a full-stack agritech logistics web application with responsive UI using Next.js and TailwindCSS."
+    }
+  ]
+}

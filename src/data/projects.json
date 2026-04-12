@@ -1,0 +1,45 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "AI-Powered Photo Organizer",
+      "description": "Full-stack AI photo management platform with authentication, gallery organization, face detection, and automated reel generation.",
+      "techStack": [
+        "Flask",
+        "Machine Learning",
+        "Face Recognition",
+        "MoviePy",
+        "Pillow",
+        "Authentication"
+      ],
+      "githubUrl": "https://github.com/orgs/Minor-Project-PR1103/",
+      "liveUrl": "",
+      "image": ""
+    },
+    {
+      "id": 2,
+      "name": "Aarambh\u201924 University Website",
+      "description": "Official orientation website built for the university event with a responsive, structured UI.",
+      "techStack": [
+        "Next.js",
+        "TailwindCSS",
+        "TypeScript"
+      ],
+      "githubUrl": "https://github.com/ShubhamJain-23/Aarambh-24",
+      "liveUrl": "",
+      "image": ""
+    },
+    {
+      "id": 3,
+      "name": "HackJKLU v3.0 Website",
+      "description": "National-level hackathon website developed with a responsive design and event details.",
+      "techStack": [
+        "Next.js",
+        "TailwindCSS"
+      ],
+      "githubUrl": "https://github.com/ShubhamJain-23/hackJKLUv3",
+      "liveUrl": "",
+      "image": ""
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "certificates": [
+    {
+      "id": 1,
+      "title": "Product Management: An Introduction",
+      "issuer": "IBM",
+      "date": "2025",
+      "type": "digital",
+      "verifyUrl": "",
+      "imageUrl": ""
+    },
+    {
+      "id": 2,
+      "title": "Business Analysis Fundamentals",
+      "issuer": "Microsoft",
+      "date": "2025",
+      "type": "digital",
+      "verifyUrl": "",
+      "imageUrl": ""
+    },
+    {
+      "id": 3,
+      "title": "Coursera Learner Profile",
+      "issuer": "Coursera",
+      "date": "2026",
+      "type": "profile",
+      "verifyUrl": "https://www.coursera.org/learner/shubham-jain",
+      "imageUrl": ""
+    }
+  ]
+}

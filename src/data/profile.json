@@ -1,0 +1,17 @@
+{
+  "name": "Shubham Jain",
+  "fullName": "Shubham Jain",
+  "role": "Engineering Student \u2014 Computer Science",
+  "tagline": "Building web, AI, and research-backed learning experiences.",
+  "bio": "Engineering student specializing in full-stack web development, AI-integrated applications, and academic mentoring. Currently focused on building scalable digital experiences and interactive systems.",
+  "location": "Jaipur, India",
+  "status": "Student",
+  "email": "shubhamjain5396.tis@gmail.com",
+  "resumeUrl": "/resume.pdf",
+  "photo": "shubham.jpg",
+  "social": {
+    "github": "https://github.com/ShubhamJain-23",
+    "linkedin": "https://www.linkedin.com/in/shubham-jain2302/",
+    "coursera": "https://www.coursera.org/learner/shubham-jain"
+  }
+}
