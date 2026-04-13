@@ -11,7 +11,6 @@ const CertificatesSection = () => (
         viewport={{ once: true }}
         className="text-3xl md:text-4xl font-bold text-center mb-12"
       >
-        <span className="text-primary font-mono text-lg block mb-2">05.</span>
         Certifications
       </motion.h2>
 
